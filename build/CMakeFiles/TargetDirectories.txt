@@ -1,0 +1,4 @@
+/home/mehmet/destiny/experimental/build/CMakeFiles/rebuild_cache.dir
+/home/mehmet/destiny/experimental/build/CMakeFiles/edit_cache.dir
+/home/mehmet/destiny/experimental/build/CMakeFiles/decodeplugin.dir
+/home/mehmet/destiny/experimental/build/CMakeFiles/experimental.dir
